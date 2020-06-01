@@ -8,6 +8,14 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'Univers LT Std';
+    src:
+            url('UniversLTCYR-65Bold.ttf') format('woff2'),
+            url('UniversLTCYR-65Bold.woff') format('woff'),
+            url('UniversLTCYR-65Bold.ttf') format('truetype');
+}
+
 #preload {
     display: flex;
     justify-content: center;
